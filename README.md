@@ -153,32 +153,3 @@ cd ..
 npm start
 ```
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📝 License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- Google Cloud Vision API for facial analysis capabilities
-- Wikipedia for providing open content
-- Material-UI for the beautiful component library
-- The open source community for the amazing tools and libraries
-
-## 📞 Support
-
-If you encounter any issues or have questions, please:
-1. Check the existing issues
-2. Create a new issue with detailed information
-3. Include error logs and reproduction steps
-
----
-
-**Note**: This project requires Google Cloud Vision API credentials to function. Please ensure you have proper authentication set up before running the application.
