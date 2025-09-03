@@ -2,6 +2,15 @@
 
 A full-stack web application that analyzes facial expressions in images from Wikipedia articles using Google Cloud Vision API. Built with TypeScript, Node.js, Express, and React.
 
+[![CI](https://github.com/dayw20/SmilingFace_ImageSentimentAnalysisSystem/workflows/CI/badge.svg)](https://github.com/dayw20/SmilingFace_ImageSentimentAnalysisSystem/actions)
+[![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)](https://opensource.org/licenses/ISC)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5.4-blue.svg)](https://www.typescriptlang.org/)
+[![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
+
+**Topics:** `computer-vision` `express` `react` `gcp-vision` `facial-analysis` `wikipedia-api` `typescript` `concurrency`
+
+
 ## 🚀 Features
 
 - **Wikipedia Integration**: Automatically fetches images from Wikipedia articles and their linked pages
@@ -48,8 +57,8 @@ A full-stack web application that analyzes facial expressions in images from Wik
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-url>
-   cd image-sentiment-analysis
+   git clone https://github.com/dayw20/SmilingFace_ImageSentimentAnalysisSystem.git
+   cd SmilingFace_ImageSentimentAnalysisSystem
    ```
 
 2. **Install dependencies**

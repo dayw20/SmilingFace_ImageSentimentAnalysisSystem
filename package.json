@@ -10,6 +10,7 @@
   "name": "image-sentiment-analysis",
   "version": "1.0.0",
   "description": "A full-stack web application that analyzes facial expressions in images from Wikipedia articles using Google Cloud Vision API",
+  "keywords": ["computer-vision", "express", "react", "gcp-vision", "facial-analysis", "wikipedia-api", "typescript", "concurrency"],
   "main": "dist/src/index.js",
   "type": "module",
   "scripts": {
