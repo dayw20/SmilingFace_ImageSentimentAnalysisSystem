@@ -8,7 +8,6 @@ A full-stack web application that analyzes facial expressions in images from Wik
 [![Node.js](https://img.shields.io/badge/Node.js-18+-green.svg)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18-blue.svg)](https://reactjs.org/)
 
-**Topics:** `computer-vision` `express` `react` `gcp-vision` `facial-analysis` `wikipedia-api` `typescript` `concurrency`
 
 
 ## 🚀 Features
