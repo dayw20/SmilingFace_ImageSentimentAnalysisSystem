@@ -7,10 +7,10 @@
       "compile": false
     }
   },
-  "name": "smiling-faces",
+  "name": "image-sentiment-analysis",
   "version": "1.0.0",
-  "description": "",
-  "main": "dist/index.js",
+  "description": "A full-stack web application that analyzes facial expressions in images from Wikipedia articles using Google Cloud Vision API",
+  "main": "dist/src/index.js",
   "type": "module",
   "scripts": {
     "start": "node .",
